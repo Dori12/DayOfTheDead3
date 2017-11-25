@@ -2,7 +2,7 @@
 /errorReport:prompt
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
-"C:\Unreal Projects\DayOfTheDead\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"C:\Unreal Projects\DayOfTheDead\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\AdvancedSteamSessions.generated.cpp.obj"
-"C:\Unreal Projects\DayOfTheDead\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\PCLaunch.rc.res"
-/OUT:"C:\Unreal Projects\DayOfTheDead\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4-AdvancedSteamSessions.lib"
+"E:\DayOfTheDead3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"E:\DayOfTheDead3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\AdvancedSteamSessions.generated.cpp.obj"
+"E:\DayOfTheDead3\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+/OUT:"E:\DayOfTheDead3\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4-AdvancedSteamSessions.lib"
